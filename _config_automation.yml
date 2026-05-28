@@ -38,10 +38,12 @@ cran_googlesheet:
 ###### GitHub ######
 refresh-github: yes
 github_repos: [
-  fhdsl/metricminer,
-  fhdsl/metricminer-dashboard,
-  jhudsl/OTTR_Template,
-  jhudsl/OTTR_Template_Website
+ BioDataSage/fair25,
+  BioDataSage/ff-water-quality,
+  BioDataSage/ff-comm-health,
+  BioDataSage/ff-student-performance,
+  BioDataSage/ff-covid,
+  BioDataSage/ff-food
   ]
 github_googlesheet:
 

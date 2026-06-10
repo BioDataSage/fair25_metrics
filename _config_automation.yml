@@ -26,8 +26,9 @@ calendly_googlesheet:
 ###### Citations ######
 refresh-citations: yes
 citation_papers: [
-  "https://scholar.google.com/scholar?cites=6140457238337460780",
-  "https://scholar.google.com/scholar?cites=15945159957067506879" ]
+  "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13247920846160440991",
+  "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=627186407070624280&as_sdt=5",
+  "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6959698323426328146&as_sdt=5"]
 citation_googlesheet:
 
 ###### CRAN ######

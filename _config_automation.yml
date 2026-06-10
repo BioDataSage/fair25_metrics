@@ -20,7 +20,7 @@ data_dest: github
 folder_path:
 
 ###### Calendly ######
-refresh-calendly: no
+refresh-calendly: yes
 calendly_googlesheet:
 
 ###### Citations ######

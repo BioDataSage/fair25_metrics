@@ -56,8 +56,7 @@ ga_googlesheet:
 ###### Google Forms ######
 refresh-googleforms: yes
 google_forms: [
-  1DQlUXC3ODKfDWDJJuUBO3azspchS-17xCacOfoWJvhI,
-  1XvE5YOL6lU-uew6jRTLhw-qxl8DD7T--2lsNEvgzMRs ]
+  1LVo-jwEoaWhTXWsm3phWm9LXedcTQs-mqHioKjJMjyg ]
 googleforms_googlesheet:
 
 ###### Slido ######

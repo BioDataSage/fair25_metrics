@@ -50,7 +50,7 @@ github_googlesheet:
 
 ###### Google Analytics ######
 refresh-ga: yes
-ga_property_ids: [ 422671031, 422558989 ]
+ga_property_ids: [ 525342833 ]
 ga_googlesheet:
 
 ###### Google Forms ######

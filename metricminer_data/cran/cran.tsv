@@ -2143,6 +2143,9 @@ date	count	package
 2026-06-10	5028	palmerpenguins
 2026-06-11	4858	palmerpenguins
 2026-06-12	4612	palmerpenguins
+2026-06-13	3927	palmerpenguins
+2026-06-14	4017	palmerpenguins
+2026-06-15	4970	palmerpenguins
 2014-01-17	77	dplyr
 2014-01-18	138	dplyr
 2014-01-19	125	dplyr
@@ -6666,6 +6669,9 @@ date	count	package
 2026-06-10	67447	dplyr
 2026-06-11	68191	dplyr
 2026-06-12	63576	dplyr
+2026-06-13	45956	dplyr
+2026-06-14	52223	dplyr
+2026-06-15	76015	dplyr
 2025-01-09	65	ellmer
 2025-01-10	112	ellmer
 2025-01-11	34	ellmer
@@ -7179,3 +7185,6 @@ date	count	package
 2026-06-10	489	ellmer
 2026-06-11	477	ellmer
 2026-06-12	355	ellmer
+2026-06-13	222	ellmer
+2026-06-14	323	ellmer
+2026-06-15	515	ellmer

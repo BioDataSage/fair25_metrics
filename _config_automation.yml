@@ -66,7 +66,7 @@ slido_googlesheet:
 
 ###### YouTube ######
 refresh-youtube: yes
-video_ids: [ XN_QPRrJZAw, YkYnni-WuaQ ]
+video_ids: [ XZoUa9tZPB0, LToP_LtZZSM, KmY7XSCrI8o, Ut7RD_JI0q0, ildkyzJw1kQ ]
 youtube_googlesheet:
 
 ##### Renderings run upon merge to main branch #####

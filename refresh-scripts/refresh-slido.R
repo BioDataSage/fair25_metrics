@@ -33,7 +33,7 @@ yaml <- yaml::read_yaml(yaml_file_path)
 
 
 ### Get Slido data
-drive_id <- "https://drive.google.com/drive/folders/1KwJ4LK-lN5BJS7ddJyK8VW2THC41DEUo"
+drive_id <- "https://drive.google.com/drive/u/0/folders/18E6zWXiHYpfi8qimGw9Ki0eDh-0B4eZW"
 slido_data <- get_slido_files(drive_id)
 slido_names <- names(slido_data)
 

@@ -60,8 +60,8 @@ google_forms: [
 googleforms_googlesheet:
 
 ###### Slido ######
-refresh-slido: no
-drive_id: 1QcseQD2mz62Zl-JdyY63u1dC5aTSQC0R
+refresh-slido: yes
+drive_id: 1KwJ4LK-lN5BJS7ddJyK8VW2THC41DEUo
 slido_googlesheet:
 
 ###### YouTube ######

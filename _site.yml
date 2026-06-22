@@ -22,8 +22,8 @@ navbar:
     href: googleanalytics.html
     icon: fa-google
   - text: Slido
-   href: slido.html
-   icon: a-square-poll-vertical
+    href: slido.html
+    icon: a-square-poll-vertical
   - text: Youtube
     href: youtube.html
     icon: fa-play

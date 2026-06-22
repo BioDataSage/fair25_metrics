@@ -1,2 +1,2 @@
 website	activeUsers	newUsers	totalUsers	eventCountPerUser	screenPageViewsPerUser	sessions	averageSessionDuration	screenPageViews	engagementRate
-test	8	8	8	5	1	9	9.604440888888888	8	0.3333333333333333
+test	10	8	10	4.9	0.9	11	20.077280272727275	9	0.2727272727272727

@@ -1,4 +1,11 @@
 website	day	month	year	country	fullPageUrl
+test	01	07	2026	United States	www.biodatasage.com/
+test	01	07	2026	United States	www.biodatasage.com/about
+test	01	07	2026	United States	www.biodatasage.com/contact
+test	01	07	2026	United States	www.biodatasage.com/fair
+test	01	07	2026	United States	www.biodatasage.com/services
+test	02	07	2026	United States	www.biodatasage.com/
+test	02	07	2026	United States	www.biodatasage.com/about
 test	17	06	2026	(not set)	www.biodatasage.com/?gtm_latency=1
 test	17	06	2026	United States	www.biodatasage.com/
 test	17	06	2026	United States	www.biodatasage.com/about
@@ -35,3 +42,13 @@ test	26	06	2026	United States	www.biodatasage.com/fair-forward-2025
 test	26	06	2026	United States	www.biodatasage.com/services
 test	27	06	2026	United States	www.biodatasage.com/
 test	27	06	2026	United States	www.biodatasage.com/about
+test	27	06	2026	United States	www.biodatasage.com/contact
+test	28	06	2026	United States	www.biodatasage.com/about
+test	29	06	2026	United States	www.biodatasage.com/
+test	29	06	2026	United States	www.biodatasage.com/about
+test	29	06	2026	United States	www.biodatasage.com/fair
+test	30	06	2026	United States	www.biodatasage.com/
+test	30	06	2026	United States	www.biodatasage.com/about
+test	30	06	2026	United States	www.biodatasage.com/contact
+test	30	06	2026	United States	www.biodatasage.com/fair
+test	30	06	2026	United States	www.biodatasage.com/services

@@ -6,19 +6,42 @@ test	01	07	2026	United States	www.biodatasage.com/fair
 test	01	07	2026	United States	www.biodatasage.com/services
 test	02	07	2026	United States	www.biodatasage.com/
 test	02	07	2026	United States	www.biodatasage.com/about
+test	02	08	2026	United States	www.biodatasage.com/
+test	02	08	2026	United States	www.biodatasage.com/about
+test	03	08	2026	United States	www.biodatasage.com/
+test	03	08	2026	United States	www.biodatasage.com/about
+test	04	08	2026	United States	www.biodatasage.com/
+test	04	08	2026	United States	www.biodatasage.com/about
+test	04	08	2026	United States	www.biodatasage.com/contact
+test	04	08	2026	United States	www.biodatasage.com/fair
+test	04	08	2026	United States	www.biodatasage.com/services
 test	05	07	2026	India	www.biodatasage.com/about
 test	05	07	2026	United States	www.biodatasage.com/
 test	05	07	2026	United States	www.biodatasage.com/about
+test	05	08	2026	United States	www.biodatasage.com/
+test	05	08	2026	United States	www.biodatasage.com/about
+test	05	08	2026	United States	www.biodatasage.com/contact
+test	05	08	2026	United States	www.biodatasage.com/fair
+test	05	08	2026	United States	www.biodatasage.com/services
 test	06	07	2026	United States	www.biodatasage.com/
+test	06	08	2026	Canada	www.biodatasage.com/about
+test	06	08	2026	Canada	www.biodatasage.com/contact
+test	06	08	2026	Singapore	www.biodatasage.com/fair
+test	06	08	2026	United States	www.biodatasage.com/
+test	06	08	2026	United States	www.biodatasage.com/about
+test	06	08	2026	United States	www.biodatasage.com/contact
 test	07	07	2026	United States	www.biodatasage.com/
 test	07	07	2026	United States	www.biodatasage.com/about
 test	07	07	2026	United States	www.biodatasage.com/contact
 test	07	07	2026	United States	www.biodatasage.com/fair
 test	07	07	2026	United States	www.biodatasage.com/services
+test	07	08	2026	United States	www.biodatasage.com/
+test	07	08	2026	United States	www.biodatasage.com/about
 test	08	07	2026	United States	www.biodatasage.com/
 test	08	07	2026	United States	www.biodatasage.com/about
 test	08	07	2026	United States	www.biodatasage.com/contact
 test	08	07	2026	United States	www.biodatasage.com/services
+test	08	08	2026	United States	www.biodatasage.com/about
 test	09	07	2026	United States	www.biodatasage.com/
 test	09	07	2026	United States	www.biodatasage.com/about
 test	10	07	2026	United States	www.biodatasage.com/

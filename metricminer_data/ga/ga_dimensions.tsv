@@ -44,12 +44,16 @@ test	08	07	2026	United States	www.biodatasage.com/services
 test	08	08	2026	United States	www.biodatasage.com/about
 test	09	07	2026	United States	www.biodatasage.com/
 test	09	07	2026	United States	www.biodatasage.com/about
+test	09	08	2026	Brazil	www.biodatasage.com/about
 test	10	07	2026	United States	www.biodatasage.com/
 test	10	07	2026	United States	www.biodatasage.com/about
 test	10	07	2026	United States	www.biodatasage.com/services
+test	10	08	2026	United States	www.biodatasage.com/about
 test	11	07	2026	India	www.biodatasage.com/
 test	11	07	2026	India	www.biodatasage.com/about
 test	11	07	2026	India	www.biodatasage.com/services
+test	11	08	2026	United States	www.biodatasage.com/
+test	11	08	2026	United States	www.biodatasage.com/about
 test	12	07	2026	United States	www.biodatasage.com/contact
 test	13	07	2026	Congo - Brazzaville	www.biodatasage.com/contact
 test	13	07	2026	Singapore	www.biodatasage.com/
@@ -59,12 +63,18 @@ test	13	07	2026	United States	www.biodatasage.com/
 test	13	07	2026	United States	www.biodatasage.com/about
 test	13	07	2026	United States	www.biodatasage.com/fair
 test	13	07	2026	United States	www.biodatasage.com/services
+test	13	08	2026	United States	www.biodatasage.com/
+test	13	08	2026	United States	www.biodatasage.com/about
+test	13	08	2026	United States	www.biodatasage.com/fair
+test	13	08	2026	United States	www.biodatasage.com/services
 test	14	07	2026	India	www.biodatasage.com/about
 test	14	07	2026	United States	www.biodatasage.com/
 test	14	07	2026	United States	www.biodatasage.com/about
 test	14	07	2026	United States	www.biodatasage.com/contact
 test	14	07	2026	United States	www.biodatasage.com/fair
 test	14	07	2026	United States	www.biodatasage.com/services
+test	14	08	2026	United States	www.biodatasage.com/about
+test	14	08	2026	United States	www.biodatasage.com/services
 test	15	07	2026	United States	www.biodatasage.com/
 test	15	07	2026	United States	www.biodatasage.com/about
 test	15	07	2026	United States	www.biodatasage.com/contact
